@@ -1752,31 +1752,37 @@ links:
       Snowcarbon is an independent guide founded by ski journalist Daniel Elkan to help you do exactly that.
 
   - title: Runamics Running & Sports Gear
-      url: https://www.runamics.com
-      countries: []
-      categories: [clothing]
-      tags: [clothing]
-      description: Crowd-funded for-purpose eco-friendly alternatives to traditional sports gear.  We combine merino wool with wood-based cellulosic fibres like Lyocell. We make experiments with highly innovative fibres like biodegradable elastic fibres or “polyester-like” substitutes.  We're a climate neutral company- We avoid emissions where we can and where they can't be avoided, we compensate them. We will repair your runamics garment and send it back to you for free or discount a replacement. We use plastic-free packaging and ship globally with DHL GoGreen.
+    url: https://www.runamics.com
+    countries: []
+    categories: [clothing]
+    tags: [clothing]
+    description: Crowd-funded for-purpose eco-friendly alternatives to traditional sports gear.  We combine merino wool with wood-based cellulosic fibres like Lyocell. We make experiments with highly innovative fibres like biodegradable elastic fibres or “polyester-like” substitutes.  We're a climate neutral company- We avoid emissions where we can and where they can't be avoided, we compensate them. We will repair your runamics garment and send it back to you for free or discount a replacement. We use plastic-free packaging and ship globally with DHL GoGreen.
       
   - title: MakeSense Jobs
-      url: https://jobs.makesense.org
-      countries: []
-      categories: [volunteering, jobs]
-      tags: [career, job, volunteering, internship]
-      description: Makesense inspires and empowers citizens, entrepreneurs and organizations to build an inclusive and sustainable society together.  MakeSense's Job and assignment announcements platform for associations and social entrepreneurs who recruit profiles passionate about the impact. Job types include internship, freelance, civic service, partner, program, volunteer mission, mentoring.
+    url: https://jobs.makesense.org
+    countries: []
+    categories: [volunteering, jobs]
+    tags: [career, job, volunteering, internship]
+    description: Makesense inspires and empowers citizens, entrepreneurs and organizations to build an inclusive and sustainable society together.  MakeSense's Job and assignment announcements platform for associations and social entrepreneurs who recruit profiles passionate about the impact. Job types include internship, freelance, civic service, partner, program, volunteer mission, mentoring.
 
   - title: Loop A Life 100% circular fashion - truly circular and wasteless wear
-      url: https://loopalife.com/
-      featured: true
-      countries: [nl]
-      categories: [clothing]
-      tags: [clothing, second-hand]
-      description: This circular textile award winning brand sets the new standard in the textile industry by creating gorgeous quality clothing from local raw salvaged materials, recycling them without any chemicals, generating no wastewater, recycling their own products at end-of-life, researching and developing new ways to develop circular products.  They also expand their impact by organizing local sorting campaigns, workshops, collection campaigns, and facilitate other fashion companies in their circular transition.  When compared to traditional manufacturing, each sweater saves 500 liters of water, 60mJ of energy, uses zero chemicals because they sort the fibers based on color instead of bleaching and dyeing, and save at least 6kg of C02 emissions on average because everything is sourced, processed, produced, and sold locally.  
+    url: https://loopalife.com/
+    featured: true
+    countries: [nl]
+    categories: [clothing]
+    tags: [clothing, second-hand]
+    description: This circular textile award winning brand sets the new standard in the textile industry by creating gorgeous quality clothing from local raw salvaged materials, recycling them without any chemicals, generating no wastewater, recycling their own products at end-of-life, researching and developing new ways to develop circular products.  They also expand their impact by organizing local sorting campaigns, workshops, collection campaigns, and facilitate other fashion companies in their circular transition.  When compared to traditional manufacturing, each sweater saves 500 liters of water, 60mJ of energy, uses zero chemicals because they sort the fibers based on color instead of bleaching and dyeing, and save at least 6kg of C02 emissions on average because everything is sourced, processed, produced, and sold locally.  
 
   - title: Lost in Samsara - Bags, Jewelry, and Accessories
-      url: https://www.lostinsamsara.co.uk
-      countries: []
-      categories: [clothing]
-      tags: [clothing, second-hand, jewelry]
-      description: Stylish products produced ethically from upcycled materials.  Bags made from cement bags, tires, and jewelry made from upcycled bullet casings.
-      
+    url: https://www.lostinsamsara.co.uk
+    countries: []
+    categories: [clothing]
+    tags: [clothing, second-hand, jewelry]
+    description: Stylish products produced ethically from upcycled materials.  Bags made from cement bags, tires, and jewelry made from upcycled bullet casings.
+
+  - title: A Good Company - sustainable everyday products
+    url: https://agood.com/
+    countries: []
+    categories: [sustainable-lifestyle]
+    tags: [hygienic-products, electronic-accesories, office-supplies]
+    description: Everyday products including notebooks, toothbrushes, phone cases, art supplies, water bottles, etc. designed with by a company with complete transparency that has extremely ambitious environmental standards including plastic-free low-carbon materials including bio-plastics, bamboo, stone paper, and recycled aluminum, shipped to you with climate-compensated shipping. We refuse to take shortcuts, and we obsess over every single step in the journey of our products – from how they are made to how they end up on your doorstep.
